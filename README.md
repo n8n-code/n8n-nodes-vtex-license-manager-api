@@ -55,11 +55,11 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| User | GET Get List of Users, POST Create User, GET Get User |
-| App Keys | GET Get appKeys from account, POST Create new appkey, PUT Update appkey |
-| Roles | GET Get List of Roles, GET Get Roles by User/appKey, PUT Put Roles in User/appKey, DELETE Remove Role from User/appKey |
-| Store | GET Get Stores |
-| Account | GET Get information about account |
+| User | Get list of users, Post create user, Get user |
+| App Keys | Get appkeys from account, Post create new appkey, Put update appkey |
+| Roles | Get list of roles, Get roles by userappkey, Put roles in userappkey, Delete remove role from userappkey |
+| Store | Get stores |
+| Account | Get information about account |
 
 ---
 
